@@ -1,8 +1,8 @@
 const path = require('path')
 
 module.exports = {
-  publicPath: '/test/',
-  // assetsDir: 'assets',
+  publicPath: '/pwa/',
+  // assetsDir: 'pwa',
   outputDir: 'docs',
   filenameHashing: false,
 }
