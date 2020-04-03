@@ -2,6 +2,7 @@ const path = require('path')
 
 module.exports = {
   publicPath: '/test/',
-  assetsDir: 'assets',
+  // assetsDir: 'assets',
   outputDir: 'docs',
+  filenameHashing: false,
 }
